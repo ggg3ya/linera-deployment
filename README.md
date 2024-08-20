@@ -14,7 +14,7 @@ linera net up
 ```
 - Clone this repository, then run deploy script:
 ```bash
-./scripts/simple.sh <working directory>
+./simple.sh <working directory>
 ```
 E.g. `./scripts/simple.sh /tmp/.tmpguVRWj`
 
