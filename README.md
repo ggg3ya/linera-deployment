@@ -16,7 +16,7 @@ linera net up
 ```bash
 ./simple.sh <working directory>
 ```
-E.g. `./scripts/simple.sh /tmp/.tmpguVRWj`
+E.g. `./simple.sh /tmp/.tmpguVRWj`
 
 - Start frontend:
 ```bash
